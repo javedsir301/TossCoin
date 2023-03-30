@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Toss Coin</string>
+    <string name="enter_one_1_for_head">Enter One (1) For Head</string>
+    <string name="enter_one_2_for_tail">Enter One (2) For Tail</string>
+    <string name="enter_your_choice">Enter your Choice</string>
+    <string name="t_t_t_t_t_t_t_t_t_t_t_t_t_tyou_won">\t\t\t\t\t\t\t\t\t\t\t\t\t\tYou Won</string>
+    <string name="enter_two_2_for_tail">Enter Two (2) For Tail</string>
+    <string name="result">Result</string>
+    <string name="let_s_toss_it">Let\'s Toss It</string>
+    <string name="check_luck">Check luck</string>
+</resources>
